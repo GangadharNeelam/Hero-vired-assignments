@@ -1,0 +1,2 @@
+Given inputs are :  [25, 36, 2, 36, 23, 56]
+Sum of the inputs =  178

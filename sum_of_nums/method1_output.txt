@@ -1,0 +1,2 @@
+Given inputs are :  [6, 25, 32, 32, 23]
+Sum of the inputs =  118
