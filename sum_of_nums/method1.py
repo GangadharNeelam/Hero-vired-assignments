@@ -2,7 +2,7 @@ c = 1
 ls = []
 while c <6:
     n = int(input("Enter a positive number :"))
-    if n > 0:
+    if n >= 0:
         ls.append(n)
         c += 1
     else:
