@@ -4,7 +4,7 @@ ls = []
 for i in range(n):
     while True:
         m = int(input("Enter a number :"))
-        if m > 0:
+        if m >= 0:
             ls.append(m)
             break
         else:
